@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>FlowLoopsforNincompoops</fullName>
+    <description>Flow Loop Demonstration from Forcelandia 2018</description>
+    <types>
+        <members>sendHTMLEmailPlugin</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Opportunity.Channel Sales Process</members>
+        <members>Opportunity.Simple Sales Process</members>
+        <name>BusinessProcess</name>
+    </types>
+    <types>
+        <members>Opportunity.Opportunity_Layout</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
+        <members>Contact.Agent__c</members>
+        <members>Contact.Agent_s_Email__c</members>
+        <members>Contact.Holiday__c</members>
+        <members>Contact.Hot_Rank__c</members>
+        <members>Contact.Interest__c</members>
+        <members>Contact.Status__c</members>
+        <members>Contact.Type__c</members>
+        <members>Lead.Holiday__c</members>
+        <members>Lead.Interest__c</members>
+        <members>Opportunity.Celebrity__c</members>
+        <members>Opportunity.Lead__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Get_Community_User_CRM_Data-2</members>
+        <members>HollywoodHolidaysCount-6</members>
+        <members>HollywoodfortheHolidays-12</members>
+        <members>Lead_Create-6</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>Holiday</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
+        <members>Opportunity.ChannelPartner</members>
+        <members>Opportunity.SimpleOpportunity</members>
+        <name>RecordType</name>
+    </types>
+    <version>43.0</version>
+</Package>

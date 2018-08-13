@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Christmas</fullName>
+        <default>false</default>
+        <label>Christmas</label>
+    </customValue>
+    <customValue>
+        <fullName>Eid</fullName>
+        <default>false</default>
+        <label>Eid</label>
+    </customValue>
+    <customValue>
+        <fullName>Halloween</fullName>
+        <default>false</default>
+        <label>Halloween</label>
+    </customValue>
+    <customValue>
+        <fullName>New Years Eve</fullName>
+        <default>false</default>
+        <label>New Years Eve</label>
+    </customValue>
+    <customValue>
+        <fullName>Passover</fullName>
+        <default>false</default>
+        <label>Passover</label>
+    </customValue>
+    <customValue>
+        <fullName>Thanksgiving</fullName>
+        <default>false</default>
+        <label>Thanksgiving</label>
+    </customValue>
+    <customValue>
+        <fullName>Hanukkah</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Hanukkah</label>
+    </customValue>
+    <customValue>
+        <fullName>Flag Day</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Flag Day</label>
+    </customValue>
+    <customValue>
+        <fullName>Easter</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>Easter</label>
+    </customValue>
+    <customValue>
+        <fullName>MLK Day</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>MLK Day</label>
+    </customValue>
+    <masterLabel>Holiday</masterLabel>
+    <sorted>true</sorted>
+</GlobalValueSet>
